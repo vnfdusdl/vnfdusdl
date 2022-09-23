@@ -20,18 +20,23 @@ Here are some ideas to get you started:
   
 </div>
   
+<!--  프로필  -->
 
-  <div align=center>
-   <b> CONTACT ☎<b>
+<!-- 연락처 -->
+
+<div align=center>
+   <b>CONTACT<b>
    <p>
       <a href="https://choyeon-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
      <a href="mailto:vnfdusdl@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
    </p>
-     </div>
+ </div>
+
+ <br/>
      
-     
+<!--   스킬    -->
 <div align=center>
-  <b> SKILLS 🎨</b>
+  <b> SKILLS</b>
   <table>
     <tbody>
         <tr>
