@@ -56,7 +56,7 @@ Here are some ideas to get you started:
             </td>
         </tr>
         <tr>
-            <td>👀(관심)</td>
+            <td>👀</td>
             <td>
                 <img alt='VueJS' src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D"/>
               <img alt="StroyBook" src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=python&logoColor=ffdd54"/>
