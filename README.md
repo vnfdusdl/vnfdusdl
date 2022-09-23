@@ -55,14 +55,6 @@ Here are some ideas to get you started:
                <img alt='Python' src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
             </td>
         </tr>
-        <tr>
-            <td>👀</td>
-            <td>
-              <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue&logoColor=ffdd54"/>
-              <img alt="StroyBook" src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=python&logoColor=ffdd54"/>
-              <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=ffdd54"/>
-            </td>
-        </tr>
     </tbody>
   </table>
 </div>
