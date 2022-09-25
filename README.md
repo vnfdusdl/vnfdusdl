@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   </table>
   </td>
 <td>
-  <img src='assets/profile(full).jpg' width='600px'>
+  <img src='assets/profile(full).jpg'>
   </td>
 </tr>
 </table>
