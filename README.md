@@ -19,21 +19,17 @@ Here are some ideas to get you started:
 </div>
 
 <table>
-
-<th>1</th>
-<th>2</th>
 <tr>
   <td>
-    <b style="font-size: 25px">I'm Choyeon</b>
+    <h2>I'm Choyeon 😀</h2>
       <ul style="font-size: 20px;list-style:none;  padding-left:0;">
         <li>Clean and Reusable code 🧹♻ </li>
         <li>Organized, Cooperative and Responsible 📝🤝 </li>
         <li>Book, Yoga, Kalimba and INFP🧘‍♀️🍀 </li>
       </ul>
 
----
 
-<b style="font-size: 25px">CONTACT<b>
+<h2>CONTACT 📧<h2>
 
   <a href="https://choyeon-dev.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
@@ -42,9 +38,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
   
-  ---
+ 
 
-<b style="font-size: 25px"> SKILLS</b>
+<h2>SKILLS 🛠</h2>
 
   <table style="text-align: left">
     <tbody>
@@ -73,7 +69,7 @@ Here are some ideas to get you started:
   </table>
   </td>
 <td>
-  <img src='assets/profile(full).jpg' width='400px'>
+  <img src='assets/profile(full).jpg' width='600px'>
   </td>
 </tr>
 </table>
