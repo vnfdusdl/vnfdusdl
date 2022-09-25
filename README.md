@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <tr>
   <td>
     <h2>I'm Choyeon 😀</h2>
-      <ul style="font-size: 20px;list-style:none;  padding-left:0;">
+      <ul>
         <li>Clean and Reusable code 🧹♻ </li>
         <li>Organized, Cooperative and Responsible 📝🤝 </li>
         <li>Book, Yoga, Kalimba and INFP🧘‍♀️🍀 </li>
