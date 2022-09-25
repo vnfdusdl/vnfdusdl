@@ -16,33 +16,33 @@ Here are some ideas to get you started:
 <div align=center> 
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3,4,6,10,12,14,15,17,18,21,24,26,27,28&height=200&section=header&text=Read%20Choyeon&fontSize=60)
+</div>
 
-<!-- 메인 -->
-<!--  프로필  -->
-<div style="display:flex; justify-content:center; align-items: center; max-width: 90%;">
-<img src='assets/profile(full).jpg' width="300px">
+<table>
 
-<div style="text-align: center; margin-left:25px; ">
-  <b style="font-size: 25px">I'm Choyeon</b>
-  <ul style="font-size: 20px;list-style:none;  padding-left:0;">
-    <li>Clean and Reusable code 🧹♻ </li>
-    <li>Organized, Cooperative and Responsible 📝🤝 </li>
-    <li>Book, Yoga, Kalimba and INFP🧘‍♀️🍀 </li>
-  </ul>
+<th>1</th>
+<th>2</th>
+<tr>
+  <td>
+    <b style="font-size: 25px">I'm Choyeon</b>
+      <ul style="font-size: 20px;list-style:none;  padding-left:0;">
+        <li>Clean and Reusable code 🧹♻ </li>
+        <li>Organized, Cooperative and Responsible 📝🤝 </li>
+        <li>Book, Yoga, Kalimba and INFP🧘‍♀️🍀 </li>
+      </ul>
 
 ---
-
-<!-- 연락처 -->
 
 <b style="font-size: 25px">CONTACT<b>
 
-   <a href="https://choyeon-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-     <a href="mailto:vnfdusdl@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
- <br/>
-
----
-
-<!--   스킬    -->
+  <a href="https://choyeon-dev.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+  </a>
+  <a href="mailto:vnfdusdl@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  
+  ---
 
 <b style="font-size: 25px"> SKILLS</b>
 
@@ -71,11 +71,9 @@ Here are some ideas to get you started:
         </tr>
     </tbody>
   </table>
-</div>
-</div>
-</div>
-<!-- <div align=center> -->
-  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnfdusdl&layout=compact)](https://github.com/vnfdusdl/github-readme-stats) -->
-  
-<!-- </div> -->
+  </td>
+<td>
+  <img src='assets/profile(full).jpg' width='400px'>
+  </td>
+</tr>
+</table>
