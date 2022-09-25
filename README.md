@@ -16,15 +16,20 @@ Here are some ideas to get you started:
 <!-- 헤더 -->
 <div align=center> 
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3,4,6,10,12,14,15,17,18,21,24,26,27,28&height=200&section=header&text=Read%20'Choyeon'!&fontSize=60) 
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3,4,6,10,12,14,15,17,18,21,24,26,27,28&height=200&section=header&text=Read%20Choyeon!&fontSize=60) 
   
 </div>
   
 <!--  프로필  -->
+<div align=center> 
+  
+<img src="https://avatars.githubusercontent.com/vnfdusdl" width="200px"/>
+
+</div>
 
 <!-- 연락처 -->
 
-<div align=center>
+  <div align=center>
    <b>CONTACT<b>
    <p>
       <a href="https://choyeon-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
@@ -63,10 +68,10 @@ Here are some ideas to get you started:
     </tbody>
   </table>
 </div>
-     
 
-<div align=center>
+
+<!-- <div align=center> -->
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnfdusdl&layout=compact)](https://github.com/vnfdusdl/github-readme-stats) -->
   
-</div>
+<!-- </div> -->
