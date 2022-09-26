@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- 헤더 -->
 <div align=center> 
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3,4,6,10,12,14,15,17,18,21,24,26,27,28&height=200&section=header&text=About%20Choyeon&fontSize=60)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3,4,6,10,12,14,15,17,18,21,24,26,27,28&height=200&section=header&text=About%20Me&fontSize=60)
 </div>
 
 
