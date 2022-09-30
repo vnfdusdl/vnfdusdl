@@ -77,4 +77,6 @@ Here are some ideas to get you started:
 </tr>
 </table>
  
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnfdusdl&layout=compact)](https://github.com/vnfdusdl/github-readme-stats) -->
+  
   </div>
