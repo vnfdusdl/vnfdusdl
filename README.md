@@ -30,7 +30,8 @@ Here are some ideas to get you started:
         <li>Book, Yoga, Kalimba and INFP🧘‍♀️🍀 </li>
       </ul>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnfdusdl&exclude_repo=FrontEndSchool,dream-talk,handcoding,stopwar_frontend&layout=compact)](https://github.com/vnfdusdl/github-readme-stats)
+    
 <h2>CONTACT 📧<h2>
 
   <a href="https://choyeon-dev.tistory.com/">
@@ -77,6 +78,6 @@ Here are some ideas to get you started:
 </tr>
 </table>
  
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnfdusdl&layout=compact)](https://github.com/vnfdusdl/github-readme-stats) -->
+  
   
   </div>
