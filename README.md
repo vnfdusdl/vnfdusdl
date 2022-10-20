@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <table style="text-align: left">
     <tbody>
         <tr>
-            <td style="font-size: 25px">👩‍💻</td>
+            <td style="font-size: 25px"> 👩‍💻 <br>(can do)</td>
             <td style="padding:0 30px">
                 <img alt='ReactJS' src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
                 <img alt='Redux' src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
             </td>
         </tr>
         <tr>
-            <td style="font-size: 25px">📚</td>
+            <td style="font-size: 25px;"> 📚 <br>(studying)</td>
             <td style="padding:0 30px">
                <img alt='NextJS' src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/>
                <img alt='Python' src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
