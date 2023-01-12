@@ -41,8 +41,8 @@ Here are some ideas to get you started:
  
 
 <h2>SKILLS 🛠</h2>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnfdusdl&exclude_repo=FrontEndSchool,dream-talk,handcoding,stopwar_frontend&layout=compact)](https://github.com/vnfdusdl/github-readme-stats)
+<!--   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnfdusdl&exclude_repo=FrontEndSchool,dream-talk,handcoding,stopwar_frontend&layout=compact)](https://github.com/vnfdusdl/github-readme-stats) -->
     
   
   <table style="text-align: left">
